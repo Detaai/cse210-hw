@@ -53,3 +53,6 @@ public class Journal
         Console.WriteLine($"Journal loaded from {filename}\n");
     }
 }
+
+
+
