@@ -1,8 +1,0 @@
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.AssemblyInfoInputs.cache
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.AssemblyInfo.cs
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.csproj.CoreCompileInputs.cache
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.sourcelink.json
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.dll
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\refint\Journal.dll
-C:\Users\caveg\OneDrive\Desktop\C#\week 2\obj\Debug\net8.0\Journal.pdb
