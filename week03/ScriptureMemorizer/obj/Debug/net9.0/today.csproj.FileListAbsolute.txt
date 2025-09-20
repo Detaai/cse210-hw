@@ -1,0 +1,15 @@
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.AssemblyInfoInputs.cache
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.AssemblyInfo.cs
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.csproj.CoreCompileInputs.cache
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.sourcelink.json
+C:\Users\caveg\OneDrive\Desktop\C#\today\bin\Debug\net9.0\today.exe
+C:\Users\caveg\OneDrive\Desktop\C#\today\bin\Debug\net9.0\today.deps.json
+C:\Users\caveg\OneDrive\Desktop\C#\today\bin\Debug\net9.0\today.runtimeconfig.json
+C:\Users\caveg\OneDrive\Desktop\C#\today\bin\Debug\net9.0\today.dll
+C:\Users\caveg\OneDrive\Desktop\C#\today\bin\Debug\net9.0\today.pdb
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.dll
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\refint\today.dll
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.pdb
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\today.genruntimeconfig.cache
+C:\Users\caveg\OneDrive\Desktop\C#\today\obj\Debug\net9.0\ref\today.dll
