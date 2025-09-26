@@ -1,0 +1,14 @@
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.AssemblyInfoInputs.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.AssemblyInfo.cs
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.sourcelink.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\refint\OnlineOrdering.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.pdb
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\OnlineOrdering.deps.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\OnlineOrdering.runtimeconfig.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\OnlineOrdering.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\OnlineOrdering.pdb
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\OnlineOrdering.genruntimeconfig.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\ref\OnlineOrdering.dll
