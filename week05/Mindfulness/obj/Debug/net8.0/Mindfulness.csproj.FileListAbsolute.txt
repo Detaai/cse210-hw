@@ -1,0 +1,14 @@
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\Mindfulness.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\bin\Debug\net8.0\Mindfulness.pdb
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.sourcelink.json
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.pdb
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Users\caveg\OneDrive\Desktop\Youtube\obj\Debug\net8.0\ref\Mindfulness.dll
