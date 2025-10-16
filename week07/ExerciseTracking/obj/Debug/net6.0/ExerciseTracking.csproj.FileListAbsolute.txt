@@ -1,0 +1,15 @@
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\bin\Debug\net6.0\ExerciseTracking.exe
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\bin\Debug\net6.0\ExerciseTracking.deps.json
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\bin\Debug\net6.0\ExerciseTracking.runtimeconfig.json
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\bin\Debug\net6.0\ExerciseTracking.dll
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\bin\Debug\net6.0\ExerciseTracking.pdb
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.AssemblyInfo.cs
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.sourcelink.json
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.dll
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\refint\ExerciseTracking.dll
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.pdb
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ExerciseTracking.genruntimeconfig.cache
+C:\Users\caveg\OneDrive\Desktop\ExerciseTracking\obj\Debug\net6.0\ref\ExerciseTracking.dll
